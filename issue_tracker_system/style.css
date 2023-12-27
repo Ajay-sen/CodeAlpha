@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#editor-container {
+    height: 100vh;
+}

@@ -1,0 +1,36 @@
+.container{
+    background-color: #ef904d;
+    padding-bottom:20px;
+    min-height:100vh;
+}
+
+.headName{
+    color: rgb(34,34,97);
+    text-align: center;
+    padding-top:20px;
+}
+
+#msg{
+    text-align:center;
+    color:red;
+    display: none;
+    margin-bottom:2px;
+}
+
+#items{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.singleItem
+{
+    cursor: pointer;
+
+}
+
+#details{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
